@@ -1,2 +1,3 @@
 # odin-recipe-project
-This will be fun
+
+This project is to help test my HTML knowledge in accordance with the Odin Project. Perhaps I will expand this.
